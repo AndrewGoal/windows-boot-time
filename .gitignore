@@ -1,0 +1,15 @@
+# 构建产物
+*.exe
+*.pdb
+*.ico
+
+# 本机开发辅助脚本
+capture.ps1
+
+# 常规忽略
+bin/
+obj/
+*.user
+*.suo
+.DS_Store
+Thumbs.db
